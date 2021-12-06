@@ -1,5 +1,5 @@
 ### Hi there  👋
-I wanna FullStack Engineer, so that I've been studied Front-End & Back-End
+
 <!--
 **YongsHub/YongsHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
