@@ -25,7 +25,18 @@ Here are some ideas to get you started:
 
 개발자로서 상상하고 기획했던 것을 기술로 구현해서 프로덕트를 만드는 ‘과정’을 좋아하기 때문에 몰입하고 적극적인 사람이라고 표현하고 싶습니다. 이 과정 속, 기술의 활용과 숙련도를 익혀가는 것을 좋아하고 사용자에게 최적화된 경험을 제공하는 것을 중요하게 생각하고 있습니다. 따라서 성능 개선에 대해 높은 관심이 있고 안전하고 유연한 개발을 위한 Test Code를 중요하게 생각합니다.
 
-<br>
+### 📚 Career
+
+| Project
+
+- [SSAFSOUND](https://ssafsound.com) - Samsung Software Academy Community
+- [TO-DO SNS Project](https://github.com/Six-Sibling-Nagging-Barrage/PRODUCE606)
+- [Coffee Capsule & Bean Recommendation Service](https://github.com/onebean-hyeonbean-coffeebean/coffeeing)
+
+| Education
+
+- Samsung Software Academy 9th 2023.01 ~ 2023.12
+- Wanted Pre-OnBoarding Backend Course (Nest JS)
 
 ---
 ### 📫 아래 아이콘을 통해 기술적인 문제 해결 정리 및 포트폴리오를 확인할 수 있습니다
@@ -56,16 +67,3 @@ Here are some ideas to get you started:
 - Deep Dive Spring Boot
 - MySQL 8.0
 - Redis Strategy
-
-### 📚 Career
-
-| Project
-
-- [SSAFSOUND](https://ssafsound.com) - Samsung Software Academy Community
-- [TO-DO SNS Project](https://github.com/Six-Sibling-Nagging-Barrage/PRODUCE606)
-- [Coffee Capsule & Bean Recommendation Service](https://github.com/onebean-hyeonbean-coffeebean/coffeeing)
-
-| Education
-
-- Samsung Software Academy 9th 2023.01 ~ 2023.12
-- Wanted Pre-OnBoarding Backend Course (Nest JS)
