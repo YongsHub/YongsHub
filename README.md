@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 📚 Career
 
 | Project
-
+- [CAKK](https://github.com/CAKK-DEV/cakk-server) iOS Download Available!
 - [SSAFSOUND](https://ssafsound.com) - Samsung Software Academy Community
 - [TO-DO SNS Project](https://github.com/Six-Sibling-Nagging-Barrage/PRODUCE606)
 - [Coffee Capsule & Bean Recommendation Service](https://github.com/onebean-hyeonbean-coffeebean/coffeeing)
